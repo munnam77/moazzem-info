@@ -71,6 +71,6 @@ Hi. My name is Moazzem. I am a budding machine learning & computer vision resear
 
 I am currently working as a Research Assistant at University of Hyogo in Hyogo,Japan working with Prof. Syoji Kobashi and Dr. Saadia Binte Alam.
 
-Until 2017, I was a software engineer at NICTA (now incorporated under CSIRO as Data61) in the inference systems group, working on scalable Bayesian machine learning. I now work at Data61 on a part-time basis when I am not teaching.
+In 2017, I was a software engineer at NICTA (now incorporated under CSIRO as Data61) in the inference systems group, working on scalable Bayesian machine learning. I now work at Data61 on a part-time basis when I am not teaching.
 
-Prior to that, I studied computer science at the University of New South Wales, where I had a major emphasis on algorithm design and analysis, theoretical computer science, programming language theory, artificial intelligence, machine learning, and a minor emphasis on mathematics and statistics. I undertook my final-year thesis under Aleksandar Ignjatovic, and graduated with first-class honours in 2015.
+Prior to that, I studied computer science at International University of Business Agriculture & Technology in Bangladesh, where I had a major emphasis on algorithm design and analysis, theoretical computer science, programming language theory, artificial intelligence, machine learning, and a minor emphasis on mathematics and statistics. I graduated with first-class honours in 2018.
