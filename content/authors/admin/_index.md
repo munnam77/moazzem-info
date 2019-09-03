@@ -69,7 +69,7 @@ user_groups:
 
 Hi. My name is Moazzem. I am a budding machine learning & computer vision researcher. My main research interests lie at the intersection of Bayesian deep learning, approximate inference, and probabilistic models with intractable likelihoods.
 
-I am currently working as a Research Assistant at University of Hyogo in Hyogo,Japan, working with Prof. Syoji Kobashi and Dr. Saadia Binte Alam.
+I am currently working as a Research Assistant at University of Hyogo in Hyogo,Japan working with Prof. Syoji Kobashi and Dr. Saadia Binte Alam.
 
 Until 2017, I was a software engineer at NICTA (now incorporated under CSIRO as Data61) in the inference systems group, working on scalable Bayesian machine learning. I now work at Data61 on a part-time basis when I am not teaching.
 
